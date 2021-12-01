@@ -27,3 +27,4 @@ jobs:
     - run: npm i
     - run: npm run build
     - run: npm test
+    - run: mv /home/nithin/Desktop/actions-runner/action_runner/hello/hello/build /home/nithin/Desktop/actions-runner/action_runner/hello/hello/build/hello
